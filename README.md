@@ -8,7 +8,11 @@ Skills: C
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zeynepplbyk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zeynep-palabıyık-5996a8270//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zeynepplbyk)   
 
 ### Örnek Görsel
 <img width="876" alt="Ekran Resmi 2024-02-23 22 59 04" src="https://github.com/zeynepplbyk/Sondaj-Alan-Hesab-/assets/125740535/3b66f7d7-cc4f-4c36-a9ed-3b4dd2fb73ca">
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Zeynep Palabıyık](https://www.linkedin.com/in/zeynep-palabıyık-5996a8270/)https://www.linkedin.com/in/zeynep-palabıyık-5996a8270/) 
